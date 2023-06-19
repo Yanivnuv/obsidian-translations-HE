@@ -1,12 +1,12 @@
 {
 	"setting": {
-		"options": "Options",
-		"plugin": "Plugin",
-		"builtin-plugins": "Core plugins",
-		"plugin-options": "Plugin options",
-		"folder-path-example-placeholder": "Example: folder 1/folder 2",
-		"file-path-example-placeholder": "Example: folder/note",
-		"msg-restart-required": "Changing this option requires a restart to take effect.",
+		"options": "הגדרות",
+		"plugin": "פלאגינים",
+		"builtin-plugins": "פלאגינים מובנים",
+		"plugin-options": "הגדרות פלאגינים",Changing this option requires a restart to take effect
+		"folder-path-example-placeholder": "דוגמא: תיקיה 1/תיקיה 2",
+		"file-path-example-placeholder": "דוגמא: תיקיה/פתק",
+		"msg-restart-required": "נדרש איפוס כדי להחל את השינוי",
 		"editor": {
 			"name": "Editor",
 			"section-general": "General",
